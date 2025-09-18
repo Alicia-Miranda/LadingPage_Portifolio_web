@@ -31,6 +31,12 @@ O objetivo é apresentar de forma clara as **habilidades**, **projetos** e **inf
 
 ---
 
+## Licença
+
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
 ## Autor
 
 #### Nome: Alicia Miranda
